@@ -1,7 +1,6 @@
 # dxfBlocks
-dxf CAD blocks
 
-DXF CAD Blocks
+dxf CAD Blocks
 ==============
 
 This is a repository for CAD blocks for floor plans in a DXF format and currently include:
