@@ -1,6 +1,6 @@
 # dxfBlocks
 
-This is a repository for CAD blocks for floor plans in a DXF file format and currently include:
+This is a repository for CAD blocks in a DXF file format.  They were created for use with LibreCAD, but can be used with any CAD software that supports DXF.  The blocks are primarily for architectural drawings, but also include a few other categories of blocks:
 
 #### Architectural
    - Appliances
@@ -48,7 +48,7 @@ This is a repository for CAD blocks for floor plans in a DXF file format and cur
 ## Notes:
 - All blocks, where appropriate, are oriented "down" or to the "outside" (e.g. doors open in; swing is up).
 - The unit of measure is inches and are drawn full-scale.
-- All block geometery is on the "0" layer.
+- All block geometry is on the "0" layer.
    - Blocks inserted into a drawing will placed on the active / selected layer.
    - The pen attributes are 'By Layer'.  When blocks are inserted they adopt the pen attributes of the current layer.
 
