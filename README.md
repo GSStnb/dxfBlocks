@@ -1,7 +1,5 @@
 # dxfBlocks
 
-## dxf CAD Blocks
-
 This is a repository for CAD blocks for floor plans in a DXF file format and currently include:
 
 #### Architectural
@@ -50,7 +48,7 @@ This is a repository for CAD blocks for floor plans in a DXF file format and cur
 ## Notes:
 - All blocks, where appropriate, are oriented "down" or to the "outside" (e.g. doors open in; swing is up).
 - The unit of measure is inches and are drawn full-scale.
-- All block geometery is on the "0" layer.
+- All block geometery is on the "0" layer.  Blocks inserted into a drawing will placed on the "current" layer.
 - The pen attributes are 'By Layer'.  When blocks are inserted they adopt the pen attributes of the current layer.
 
 A template, "BlockTmpl.dxf", is included for adding your own blocks or for anyone who would like to contribute.
