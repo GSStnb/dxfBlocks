@@ -1,0 +1,17 @@
+Windows
+=======
+
+File Naming Convention
+----------------------
+PaneType-Width(inches) where:
+   Fxd = Fixed
+   Csmt = Casemet
+   Sldr = Slider
+   DblHung = Double Hung
+   Awng = Awinging
+
+e.g. "FxdSldr-30" is a two pane window, Fixed and a Slider 30" totalling wide.
+
+- Blocks include: Plan, Elevation and Details (Head, Sill and Jamb) for each type.
+- Drawn for 6" wall construction.
+

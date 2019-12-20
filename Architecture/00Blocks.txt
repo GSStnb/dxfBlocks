@@ -1,0 +1,110 @@
+Blocks - Architecture
+=====================
+Unit of measure: inches
+Plans and elevations
+
+Appliances
+----------
+Kitchen:
+X	- Refrigerator (Upper / lower freezer, Side by side, French door)
+X	- Stove (Gas / electric, Front / rear control)
+X	- Microwave Oven
+X	- Dishwasher
+Laundry Room:
+X	- Washer
+X	- Dryer
+
+Furnuture
+---------
+Bedroom:
+X	- Dresser
+X	- Armoire
+X	- NightStand / Bedside Table
+X	- Beds
+X		- Single
+X		- Double
+X		- Queen
+X		- King
+Dining Room:
+X	- Table
+X		- Oval
+X		- Rectangular
+X	- Chairs
+Family Room:
+X	- Sectional:
+X		- Right Arm
+X		- Left Arm
+X		- No Arm
+X		- Corner
+X		- Left Lounge
+X		- Right Lounge
+X	- End Table
+X	- Shelves
+X	- Media Centre
+X	- Television (43, 49, 55, 65, 75, 82)
+Kitchen:
+X	- Table (Round, Rectangular)
+X	- Chairs / Stools
+Living Room:
+X	- Chair-Upholstered
+X	- Chair-WoodArms
+X	- Couch-Upholstered
+X	- Sofa-Upholstered
+X	- FootStool-Upholstered
+X	- Coffee Table
+X	- End Table
+Office:
+X	- Desk
+X	- Chair
+X	- Shelves (Width:24, 30, 36, 48, 60 x 12")
+Recreation Room:
+X	- Poker Table
+X	- Pool Table
+X	- Bar
+X	- Chairs
+X	- Shelves
+
+Fixtures
+--------
+Bathroom:
+X	- Sink
+X	- Toilet
+X	- Shower
+X	- BathTub
+Kitchen:
+X	- Dbl Sink, Sgl Sink
+
+Cabinets
+--------
+- Upper, 9-36 @ 3" intervals x 12":
+X	- Standard
+X	- Corner
+- Lower, 9-36 @ 3" intervals x 24" w 1 1/2 overhang:
+X	- Standard
+X	- Corner
+
+Windows
+-------
+- 6" walls
+- 3" inc (18 - 60")
+X	- Fixed
+X	- Casement
+X	- Sliding
+
+Doors
+-----
+- Interior (4" walls):
+X	- Swing
+X	- Pocket
+X	- Bifold
+X	- Sliding (Closet)
+- Exterior (6" walls):
+X	- Swing w/ threshold
+X	- Sliding
+X	- Garage
+
+Other
+-----
+X	- Fireplace
+X	- Wood stove (Sml, Med)
+

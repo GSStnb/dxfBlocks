@@ -1,0 +1,23 @@
+Doors
+=====
+
+Interior 
+--------
+Swing: 24, 28, 30, 32 and 36"
+Swing, double: 24, 28, 30, 32 and 36"
+
+Pocket: 24, 28, 30, and 32"
+
+Bifold: Two panel - 24, 30, 32, and 36"
+        Four panel - 48, 60, and 72"
+
+Sliding (Closet): 24, 28, 30, 32 and 36"
+
+Exterior
+--------
+Swing: 30, 32 and 36"
+Swing, double: 30, 32 and 36"
+
+Slider: 60, 72"
+
+Garage: 8, 9 16' x 7' / 8'

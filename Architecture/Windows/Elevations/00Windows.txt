@@ -1,0 +1,12 @@
+Windows
+=======
+
+File Naming Convention
+----------------------
+PaneType-Width(inches) where:
+   Fxd = Fixed
+   Csmt = Casemet
+   Sldr = Slider
+
+e.g. "FxdSldr-30" is a two pane window, Fixed and a Slider 30" wide
+

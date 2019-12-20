@@ -2,7 +2,7 @@
 
 This is a repository for CAD blocks in a DXF file format.  They were created for use with LibreCAD, but can be used with any CAD software that supports DXF.  The blocks are primarily for architectural drawings, but also include a few other categories of blocks:
 
-#### Architectural
+#### Architecture
    - Appliances
       - Kitchen
       - Laundry
